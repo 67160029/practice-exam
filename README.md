@@ -16,19 +16,11 @@
 - Vanilla JavaScript
 
 ## 📁 Project Structure
+```
 midterm-practice/
 ├── index.html
 ├── styles.css
 ├── script.js
 ├── README.md
 └── .gitignore
-
-markdown
-Copy code
-
-## ▶️ How to Run
-1. เปิดไฟล์ `index.html` ด้วย browser
-2. สามารถใช้งาน calculator ได้ทันที
-
-## 👤 Author
-Student ID: 67160029
+```
